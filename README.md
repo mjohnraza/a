@@ -1,17 +1,40 @@
-<h1 align="center">Hi 👋, I'm Muhammad John Raza</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjohnraza&label=Profile%20views&color=0e75b6&style=flat" alt="mjohnraza" /> </p>
+# **Hi, I'm Muhammad John Raza!** 👋  
+🚀 **Agentic AI Engineer | LLM Specialist | Generative AI & ML Researcher**  
+🔥 Building intelligent systems that think, learn, and create.  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjohnraza" alt="mjohnraza" /></a> </p>
+### **🌱 What I’m Up To**  
+- 🧠 Developing **Agentic AI** frameworks for autonomous reasoning & decision-making.  
+- 🤖 Fine-tuning **LLMs (GPT, Claude, Gemini, Mistral, LLaMA)** for specialized domains.  
+- 🎨 Crafting **Generative AI** pipelines for text, code, images, and agents.  
+- ⚡ Contributing to **MLOps & AI deployment** for scalable AI solutions.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### **🛠️ Tech & Tools**  
+**Languages**:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**AI/ML Stack**:  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD43B?style=flat&logo=huggingface&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-00A67D?style=flat&logo=langchain&logoColor=white)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjohnraza&show_icons=true&locale=en&layout=compact" alt="mjohnraza" /></p>
+**Cloud & Ops**:  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjohnraza&show_icons=true&locale=en" alt="mjohnraza" /></p>
+**Experimenting With**:  
+![AutoGPT](https://img.shields.io/badge/AutoGPT-6DB33F?style=flat&logo=openai&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FFD700?style=flat&logo=llama-index&logoColor=white)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjohnraza&" alt="mjohnraza" /></p>
+### **📊 GitHub Stats**  
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadjohnraza&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadjohnraza&layout=compact&theme=radical)  
+
+### **📫 Let’s Connect!**  
+💼 [LinkedIn](https://linkedin.com/in/muhammadjohnraza) | 🐦 [Twitter](https://twitter.com/mjohnraza) | ✉️ `muhammad.john.raza@example.com`  
+
+---
+
+### **✨ AI Mantra**  
+*"From prompt engineering to agentic systems—I make AI think beyond the model."*  
+
+---
+
+#### **🔗 P.S.** Want a README like this? Use **[GitHub Profile Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)** or customize it yourself!  
+
+🚀 **Pro Tip**: Update this README quarterly to reflect your latest AI experiments!  
